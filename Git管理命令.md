@@ -15,11 +15,13 @@ $ git remote -v
 
 `git remote set-url https://github.com/bye22/ObsidianNote.git` 
 
-
+## 推送远程分支
+    
     git push origin HEAD:main
+
+### 使用本地分支名推送（如果远程不存在会重新建立远程分支）
 
 To push to the branch of the same name on the remote, use
 
-    git push origin HEAD
+    git push  -u origin HEAD
 
-To choose either option permanently, see push.default in 'git help config'.
