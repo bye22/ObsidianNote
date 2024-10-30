@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "333ff90ec8ab9496",
+        "id": "e7858da2ab66d073",
         "type": "tabs",
         "children": [
           {
-            "id": "af23f9969aad986e",
+            "id": "b9b0d38d7df4a40f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "法律/法律名词/真题中法律名词.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "法律/法律名词/真题中法律名词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "法律/法律名词/真题中法律名词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "法律/法律名词/真题中法律名词.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,8 +147,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af23f9969aad986e",
+  "active": "b9b0d38d7df4a40f",
   "lastOpenFiles": [
+    "_FileModes/Table6x4_Hori_rule.md",
+    "_FileModes/mindmap-plugin头结构.md",
+    "_FileModes/重要Tip_import.md",
+    "_FileModes/警告Warning.md",
+    "_FileModes/复述总结Note.md",
+    "_README/README.md",
+    "法律/法律名词/真题中法律名词.md",
     "法律/法律名词/五次宪法.md",
     "法律/法律名词/司法机关.md",
     "法律/法律名词/全国人大会.md",
