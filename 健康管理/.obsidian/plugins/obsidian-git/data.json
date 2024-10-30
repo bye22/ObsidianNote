@@ -50,13 +50,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-<<<<<<< HEAD
     "gutterSpacingFallbackLength": 5
-=======
-    "gutterSpacingFallbackLength": 5,
-    "lastShownAuthorDisplay": "initials",
-    "lastShownDateTimeFormatOptions": "date"
->>>>>>> 4fdcf1ac7ffb950385ceae576b5fd79b0ff89b79
   },
   "autoCommitMessage": "vault backup: {{date}}"
 }

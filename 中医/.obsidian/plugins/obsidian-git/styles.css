@@ -39,13 +39,10 @@
     margin-right: auto;
 }
 
-<<<<<<< HEAD
 .obsidian-git-disabled {
     opacity: 0.5;
 }
 
-=======
->>>>>>> 4fdcf1ac7ffb950385ceae576b5fd79b0ff89b79
 .obsidian-git-center-button {
     display: block;
     margin: 20px auto;
@@ -84,13 +81,10 @@
     height: auto;
 }
 
-<<<<<<< HEAD
 .is-active .git-tools .buttons > * {
     color: var(--nav-item-color-active);
 }
 
-=======
->>>>>>> 4fdcf1ac7ffb950385ceae576b5fd79b0ff89b79
 .git-author {
     color: var(--text-accent);
 }
@@ -563,7 +557,6 @@
     padding: 0px 6px 0px 6px;
     white-space: pre; /* Keep spaces and do not collapse them. */
 }
-<<<<<<< HEAD
 
 @media (max-width: 800px) {
     /* hide git blame gutter not to superpose text */
@@ -571,5 +564,3 @@
         display: none;
     }
 }
-=======
->>>>>>> 4fdcf1ac7ffb950385ceae576b5fd79b0ff89b79

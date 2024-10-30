@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "642774ccb5fd3742",
+    "id": "133742b8de77ef37",
     "type": "split",
     "children": [
       {
-        "id": "f275b41ca7e3e4f5",
+        "id": "fc26b77bc0f9174e",
         "type": "tabs",
         "children": [
           {
-            "id": "db996205fe6195d3",
+            "id": "58d8daad0e550ee4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git管理命令.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,25 +21,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ec25d566a7fb060a",
+    "id": "ff6891fb6fe008f6",
     "type": "split",
     "children": [
       {
-        "id": "dcda166d34391dcc",
+        "id": "2f0a28997632215d",
         "type": "tabs",
         "children": [
           {
-            "id": "7303bce5cd6e92b0",
+            "id": "28252bc694d1e9e0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "9cd5bfa004466d6d",
+            "id": "e3d01ae3bb4df92f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "165d5cde56490761",
+            "id": "5e47dc90f08b5060",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,68 +65,64 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 300
   },
   "right": {
-    "id": "4db038b1c42839d4",
+    "id": "18a6e1a2ec714dda",
     "type": "split",
     "children": [
       {
-        "id": "43ca59eec0ea14c5",
+        "id": "7ffe8e158d6c2cf8",
         "type": "tabs",
         "children": [
           {
-            "id": "5c869eb49243dc30",
+            "id": "888073ee7feb336a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git管理命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b768274088c1e338",
+            "id": "1281b319b5978421",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git管理命令.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5fc5d4197c007d02",
+            "id": "af0e009bcc46a1d9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "0d7a7131f145f6b2",
+            "id": "ea983fc2024bbd16",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git管理命令.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "48d2ce6676ea6007",
+            "id": "268302ffc3804b12",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -142,65 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:插入模板": false,
+      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-<<<<<<< HEAD
-      "switcher:打开快速切换": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48d2ce6676ea6007",
-=======
-      "switcher:打开快速切换": false
-    }
-  },
-  "active": "db996205fe6195d3",
->>>>>>> 4fdcf1ac7ffb950385ceae576b5fd79b0ff89b79
-  "lastOpenFiles": [
-    "README.md",
-    "Git管理命令.md",
-    "_README/README.md",
-    "高频考点.md",
-    "分值比例.md",
-    "初级.md",
-    "未命名/健康管理的基本步骤.md",
-    "_WebCliper/Obsidian Web Clipper Test Note.md",
-    "_WebCliper/申论对策建议题的技巧（包教包会） - 知乎.md",
-    "_WebCliper/中国经济的五大问题（上） 新华社——经济参考网.md",
-    "_FileModes/Table6x4_Hori_rule.md",
-    "_FileModes/复述总结Note.md",
-    "_FileModes/重要Tip_import.md",
-    "_FileModes/警告Warning.md",
-    "_FileModes/mindmap-plugin头结构.md",
-    "未命名",
-    "中医妇科.md",
-    "针灸学.md",
-    "推拿学.md",
-    "西医诊断.md",
-    "西医内科.md",
-    "传染病学.md",
-    "中医基础.md",
-    "中医儿科.md",
-    "中医经典.md",
-    "中医内科.md",
-    "中医外科.md",
-    "中心主题.xmind",
-    "思维导图",
-    "模仿",
-    "自制申论模板",
-    "复述",
-    "未命名.canvas",
-    "记忆",
-    "政治类主题",
-    "法律名词",
-    "公文范文",
-    "法/法理.canvas"
-  ]
+  "active": "ea983fc2024bbd16",
+  "lastOpenFiles": []
 }
