@@ -1,0 +1,11 @@
+{
+  "accentColor": "#5c75f5",
+  "theme": "system",
+  "baseFontSize": 30,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Aa千里江山小隶书,手写隶书",
+  "translucency": false,
+  "textFontFamily": "手写隶书,Aa千里江山小隶书",
+  "cssTheme": "ITS Theme",
+  "monospaceFontFamily": "手写隶书,Aa千里江山小隶书"
+}

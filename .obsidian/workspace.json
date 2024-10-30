@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "642774ccb5fd3742",
+    "type": "split",
+    "children": [
+      {
+        "id": "45815e4e389d949e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "830ef740b4aa9c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "初级.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec25d566a7fb060a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcda166d34391dcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7303bce5cd6e92b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "9cd5bfa004466d6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "165d5cde56490761",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "4db038b1c42839d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "43ca59eec0ea14c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c869eb49243dc30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "初级.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b768274088c1e338",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "初级.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5fc5d4197c007d02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0d7a7131f145f6b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "初级.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:插入模板": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "switcher:打开快速切换": false
+    }
+  },
+  "active": "830ef740b4aa9c2c",
+  "lastOpenFiles": [
+    "高频考点.md",
+    "分值比例.md",
+    "初级.md",
+    "未命名/健康管理的基本步骤.md",
+    "_FileModes/Table6x4_Hori_rule.md",
+    "_FileModes/复述总结Note.md",
+    "_FileModes/重要Tip_import.md",
+    "_FileModes/警告Warning.md",
+    "_FileModes/mindmap-plugin头结构.md",
+    "_README/README.md",
+    "_WebCliper/Obsidian Web Clipper Test Note.md",
+    "_WebCliper/申论对策建议题的技巧（包教包会） - 知乎.md",
+    "_WebCliper/中国经济的五大问题（上） 新华社——经济参考网.md",
+    "未命名",
+    "README.md",
+    "中医妇科.md",
+    "针灸学.md",
+    "推拿学.md",
+    "西医诊断.md",
+    "西医内科.md",
+    "传染病学.md",
+    "中医基础.md",
+    "中医儿科.md",
+    "中医经典.md",
+    "中医内科.md",
+    "中医外科.md",
+    "中医诊断.md",
+    "中心主题.xmind",
+    "思维导图",
+    "模仿",
+    "自制申论模板",
+    "复述",
+    "未命名.canvas",
+    "记忆",
+    "政治类主题",
+    "法律名词",
+    "公文范文",
+    "法/法理.canvas"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "menuCommands": [
+    {
+      "id": "graph:open-local",
+      "name": "关系图谱: 打开局部关系图",
+      "icon": "activity"
+    }
+  ],
+  "hideTitles": []
+}
