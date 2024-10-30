@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "法律/法律名词/国务院.md",
+                "file": "法律/法律名词/全国人大常委会.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "法律/法律名词/国务院.md",
+                "file": "法律/法律名词/全国人大常委会.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "法律/法律名词/国务院.md",
+                "file": "法律/法律名词/全国人大常委会.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "法律/法律名词/国务院.md"
+                "file": "法律/法律名词/全国人大常委会.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "b9b0d38d7df4a40f",
   "lastOpenFiles": [
+    "法律/法律名词/国务院.md",
     "法律/法律名词/国家权利机关.md",
     "法律/法律名词/公民基本权利.md",
     "_FileModes/Table6x4_Hori_rule.md",
@@ -170,7 +171,6 @@
     "法律/法律名词/司法机关.md",
     "法律/法律名词/全国人大会.md",
     "法律/法律名词/全国人大常委会.md",
-    "法律/法律名词/国务院.md",
     "Git管理命令.md"
   ]
 }
