@@ -11,8 +11,12 @@
             "id": "58d8daad0e550ee4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Git管理命令.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git管理命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git管理命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git管理命令.md"
+              }
             }
           },
           {
@@ -147,6 +155,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea983fc2024bbd16",
+  "active": "58d8daad0e550ee4",
   "lastOpenFiles": []
 }
