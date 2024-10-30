@@ -1,0 +1,17 @@
+{
+  "ITS@@bttn@@light": "#47C28F",
+  "ITS@@nav-item-background-hover@@light": "#47C28F",
+  "ITS@@folder@@light": "#47C28F",
+  "ITS@@folder-open@@light": "#47C28F",
+  "ITS@@scrollbar-thumb-bg@@dark": "#327A5C",
+  "ITS@@ITS-Sizes": "sizing-large",
+  "ITS@@scrollbar-width": 4,
+  "ITS@@file-line-width": 1000,
+  "ITS@@soft-text@@light": "#000000",
+  "ITS@@headers@@light": "#47C28F",
+  "ITS@@tag@@light": "#47C28F",
+  "ITS@@list-marker-color@@light": "#47C28F",
+  "ITS@@list-numbered-color@@light": "#47C28F",
+  "ITS@@kanban-minimal": false,
+  "ITS@@radius-s": 2
+}

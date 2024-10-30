@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "_Resources",
+  "userIgnoreFilters": [
+    "_FileModes/",
+    "_Resources/",
+    "_README/",
+    "_WebCliper/"
+  ],
+  "foldIndent": false,
+  "showLineNumber": true,
+  "showIndentGuide": false,
+  "foldHeading": false,
+  "showUnsupportedFiles": true
+}
