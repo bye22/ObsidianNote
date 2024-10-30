@@ -11,8 +11,12 @@
             "id": "db996205fe6195d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Git管理命令.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git管理命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git管理命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git管理命令.md"
+              }
             }
           },
           {
@@ -146,8 +154,9 @@
       "switcher:打开快速切换": false
     }
   },
-  "active": "48d2ce6676ea6007",
+  "active": "db996205fe6195d3",
   "lastOpenFiles": [
+    "Git管理命令.md",
     "_README/README.md",
     "高频考点.md",
     "分值比例.md",
@@ -174,7 +183,6 @@
     "中医经典.md",
     "中医内科.md",
     "中医外科.md",
-    "中医诊断.md",
     "中心主题.xmind",
     "思维导图",
     "模仿",
