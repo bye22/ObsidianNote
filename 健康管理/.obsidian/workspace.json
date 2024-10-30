@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5edc817ffa6b0673",
+        "id": "333ff90ec8ab9496",
         "type": "tabs",
         "children": [
           {
-            "id": "4bd62bcebf984b35",
+            "id": "af23f9969aad986e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git管理命令.md",
+                "file": "法律/法律名词/真题中法律名词.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git管理命令.md",
+                "file": "法律/法律名词/真题中法律名词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git管理命令.md",
+                "file": "法律/法律名词/真题中法律名词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git管理命令.md"
+                "file": "法律/法律名词/真题中法律名词.md"
               }
             }
           },
@@ -155,8 +155,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bd62bcebf984b35",
+  "active": "af23f9969aad986e",
   "lastOpenFiles": [
+    "法律/法律名词/五次宪法.md",
+    "法律/法律名词/司法机关.md",
+    "法律/法律名词/全国人大会.md",
+    "法律/法律名词/全国人大常委会.md",
+    "法律/法律名词/国务院.md",
+    "法律/法律名词/国家权利机关.md",
+    "法律/法律名词/公民基本权利.md",
     "Git管理命令.md"
   ]
 }
