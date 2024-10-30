@@ -11,11 +11,10 @@
             "id": "b9b0d38d7df4a40f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "法律/法律名词/全国人大会.md",
-                "mode": "source",
-                "source": false
+                "file": "健康管理/初级.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "法律/法律名词/全国人大会.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "法律/法律名词/全国人大会.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "法律/法律名词/全国人大会.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,9 +152,11 @@
   },
   "active": "b9b0d38d7df4a40f",
   "lastOpenFiles": [
+    "健康管理/初级.md",
+    "健康管理/分值比例.md",
+    "法律/法律名词/全国人大会.md",
     "法律/法律名词/全国人大常委会.md",
     "法律/法律名词/国务院.md",
-    "法律/法律名词/全国人大会.md",
     "法律/法律名词/国家权利机关.md",
     "法律/法律名词/公民基本权利.md",
     "_FileModes/Table6x4_Hori_rule.md",
